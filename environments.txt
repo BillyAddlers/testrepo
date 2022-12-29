@@ -1,0 +1,4 @@
+E:\Ngoding\biawak\conda
+E:\Ngoding\python-calc\conda
+C:\Users\finns\condaenv\main
+C:\Users\finns\.conda\envs\main
